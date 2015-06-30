@@ -1,0 +1,13 @@
+*.pyc
+.DS_Store
+.sass-cache
+*.sqlite3
+/.coverage
+/.env
+/venv
+/components/
+/coverage_html/
+/staticfiles/
+/media/
+/.tox/
+/*.egg-info/
